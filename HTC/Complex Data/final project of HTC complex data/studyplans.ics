@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220626T022712Z
+DTSTART:20220620T010000
+DTEND:20220620T000000
+SUMMARY:Learning time - Programming Languages\, Part A
+UID:8om3I-4LEeSbxyIACw0OOQ~2022-06-26T02:27:12.912~courseraorg
+DESCRIPTION:Course: Programming Languages\, Part A\nhttps://www.coursera.
+ org/learn/programming-languages/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220808T065959Z;BYDAY=MO,TU,WE,TH,FR,SU,
+ SA
+END:VEVENT
+END:VCALENDAR

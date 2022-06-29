@@ -1,0 +1,17 @@
+syntax:
+    e1 > e2 
+    > is opr comper two number 
+    e1 and e2 subexpressions
+
+Type-checking:
+ 
+    e1 must be number int or float 
+    e2 same as e1
+    e1 and e2 must same type
+    the type of entire experssion is boolean 
+
+evaluation rules :
+e1 -> v1
+e2 -> v2
+if v1 biger then v2 then produes true 
+if v1 less  then v2 then produes false  
